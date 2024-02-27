@@ -1,10 +1,8 @@
-<h1 align="center"><b>Hi , I'm Silvia Popova </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Silvia Popova </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - 🌱 I’m currently studying Information and Communication Technology in HZ University of Applied Sciences
 
-- 📫 How to reach me **silvia.popova2004@gmail.com**
-
-- ⚡ Fun fact : Martial arts and creativity work are my reasons to live.
+- 📫 Text me via email **silvia.popova2004@gmail.com** or:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
