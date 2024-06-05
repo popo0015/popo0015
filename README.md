@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Information and Communication Technology in HZ University of Applied Sciences
 
-- 📫 Text me via email **silvia.popova2004@gmail.com** or:
+- 📫 Text me via email **silvia.popova2004@gmail.com**:.
 
 
 
