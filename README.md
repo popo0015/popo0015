@@ -3,8 +3,12 @@ Hi! I'm Silvia, a passionate software engineering student from Bulgaria with a k
 
 
 ## 🌐 Socials:
+Personal account: <br>
 [![Instagram - personal account](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/silveto2004)
+<br>Creative account: <br>
 [![Instagram - artistic account](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/silviapopova.artspage)
+<br>
+Proffesional account:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/silvia-popova-4477a6290/) 
 
 # 💻 Tech Stack:
